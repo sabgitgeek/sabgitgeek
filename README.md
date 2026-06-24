@@ -15,4 +15,4 @@ https://www.linkedin.com/in/nursabrinasazalitechlab/
 
 ### Languages and Tools:
 
-Power BI • SQL • Python • Excel • Power Query • Power Automate • MySQL • SQL Server • SAP Business One • Microsoft Dynamics AX • Git • GitHub • Pandas • NumPy • Jupyter Notebook • Azure • Data Visualization
+[Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi) • [SQL](https://www.microsoft.com/en-us/sql-server) • [Python](https://www.python.org/) • [Power Query](https://learn.microsoft.com/en-us/power-query/) • [Power Automate](https://www.microsoft.com/en/power-platform/products/power-automate) • [MySQL](https://www.mysql.com/) • [SAP Business One](https://www.sap.com/sea/products/erp/business-one.html) • [GitHub](https://github.com/) • Pandas • NumPy • Jupyter Notebook • Azure • Data Visualization
